@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\retailsolutions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|solutionrelative:retailsolutions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\business\\constants\\categorytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|solutionrelative:business\\constants\\categorytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\business\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|solutionrelative:business\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\business\\domain\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|solutionrelative:business\\domain\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\business\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|solutionrelative:business\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\business\\workprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|solutionrelative:business\\workprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\retailsolutions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|solutionrelative:retailsolutions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\retailsolutions\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|solutionrelative:retailsolutions\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\retailsolutions\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|solutionrelative:retailsolutions\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\retailsolutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03120318-C555-442D-9B31-C5D6886CD796}|RetailSolutions\\RetailSolutions.csproj|solutionrelative:retailsolutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\business\\interfaces\\iworkprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iworkprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|c:\\robin\\personal\\work\\codingtest\\retailsolutions\\business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D043A99-FD10-4140-A981-B97AB18ED8CD}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RetailSolutions\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "RetailSolutions\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:01:04.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryTime.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Constants\\CategoryTime.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\CategoryTime.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Constants\\CategoryTime.cs",
+              "RelativeToolTip": "Business\\Constants\\CategoryTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:35:14.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "Business\\Domain\\Employee.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Domain\\Employee.cs",
+              "RelativeToolTip": "Business\\Domain\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:53:25.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\EmployeeService.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\EmployeeService.cs",
+              "RelativeToolTip": "Business\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:56:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RetailSolutions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RetailSolutions\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:09:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkProcessorService.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\WorkProcessorService.cs",
+              "RelativeDocumentMoniker": "Business\\WorkProcessorService.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\WorkProcessorService.cs",
+              "RelativeToolTip": "Business\\WorkProcessorService.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAQwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:12:07.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Domain\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Business\\Domain\\OrderDetail.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Domain\\OrderDetail.cs",
+              "RelativeToolTip": "Business\\Domain\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:13:16.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RetailSolutions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RetailSolutions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T19:41:27.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:56:40.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWorkProcessorService.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Interfaces\\IWorkProcessorService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IWorkProcessorService.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\Business\\Interfaces\\IWorkProcessorService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IWorkProcessorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:11:51.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "RetailSolutions\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Models\\OrderModel.cs",
+              "RelativeToolTip": "RetailSolutions\\Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:35:44.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Program.cs",
+              "RelativeDocumentMoniker": "RetailSolutions\\Program.cs",
+              "ToolTip": "C:\\Robin\\Personal\\Work\\CodingTest\\RetailSolutions\\RetailSolutions\\Program.cs",
+              "RelativeToolTip": "RetailSolutions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:29:33.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

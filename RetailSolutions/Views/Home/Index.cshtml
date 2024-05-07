@@ -1,0 +1,56 @@
+﻿@model RetailSolutions.Models.OrderModel
+
+@{
+    ViewData["Title"] = "Assembly Line";
+}
+
+<h4>Assembly Line</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SmallItemCount" class="control-label"></label>
+                <input asp-for="SmallItemCount" class="form-control" />
+                <span asp-validation-for="SmallItemCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MediumItemCount" class="control-label"></label>
+                <input asp-for="MediumItemCount" class="form-control" />
+                <span asp-validation-for="MediumItemCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LargeItemCount" class="control-label"></label>
+                <input asp-for="LargeItemCount" class="form-control" />
+                <span asp-validation-for="LargeItemCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <br />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit Order" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div class="form-group">
+    <br />
+</div>
+<div class="row">
+    <div class="col-md-6">
+        @if (!String.IsNullOrEmpty(ViewBag.TotalHoursTaken))
+        {
+            <h5>This Order will take @ViewBag.TotalHoursTaken hours to process</h5>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
